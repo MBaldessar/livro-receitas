@@ -1,0 +1,5 @@
+# Livro de Receitas :man_cook:
+
+Ola! Bem vindo ao menu livro de receitas :book:
+
+- Estrogonofe de frango
