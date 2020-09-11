@@ -7,3 +7,4 @@ Ola! Bem vindo ao menu livro de receitas :book:
 - Pave
 - Churrasco
 - Pudim
+- Camarao
