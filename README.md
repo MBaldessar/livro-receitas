@@ -6,3 +6,4 @@ Ola! Bem vindo ao menu livro de receitas :book:
 - Bolo de cenoura
 - Pave
 - Churrasco
+- Pudim
