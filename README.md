@@ -8,3 +8,4 @@ Ola! Bem vindo ao menu livro de receitas :book:
 - Churrasco
 - Pudim
 - Camarao
+- Palha italiana
